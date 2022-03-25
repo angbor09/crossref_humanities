@@ -2,5 +2,5 @@
 This repository provides data and code used for a study on Crossref coverage of Arts and Humanities scholarly literature.
 
 Folder structure:
-- The `code` directory contains scripts used to search journals in Crossref
+- The `code` directory contains scripts used to search journals and articles in Crossref
 - The `data` directory contains lists of ISSNs and DOIs searched in Crossref
